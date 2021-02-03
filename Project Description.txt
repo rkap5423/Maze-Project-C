@@ -1,0 +1,1 @@
+Construsts and displays a maze, and outputs if the maze has a solution or not. 
